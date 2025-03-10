@@ -1,6 +1,11 @@
 # Tic Tac Toe Game
 
 ## Details
+This is the first milestone project for the 100 days of code Udemy Course.
+The game allows two players to choose a name and play a simple Tic Tac Toe game.
+
+> [!NOTE]  
+> Due to the simplicity of the website the game can be played in browser(deployed on GitHub).
 
 ## Screenshots
 <table>
